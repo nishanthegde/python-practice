@@ -1,0 +1,9 @@
+name: cs197lec2pr
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - flake8
+  - tqdm
+prefix: /Users/nhegde/miniconda3/envs/cs197lec2pr
