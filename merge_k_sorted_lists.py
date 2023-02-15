@@ -6,7 +6,7 @@ def merge_k_sorted():
 
 
 def test_merge():
-    print("thank you for everything I have received")
+    print("thank you for everything!")
 
 
 if __name__ == "__main__":
